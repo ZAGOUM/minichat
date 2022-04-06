@@ -12,7 +12,7 @@
         <input type="text" name="pseudo" id="pseudo" value="Z@gor" 
         placeholder="Ex:zagor" size="30" maxlength="30"  /><br /><br />
         <textarea name="message" id="message" 
-         cols="40" rows="4">Votre message ici...</textarea><br /><br />
+         cols="40" rows="4">Entrez votre message ici...</textarea><br /><br />
         <input type="submit" value="Envoyer"/>
         <input type="reset"  value="Annuler"/><br/>
 <?php
